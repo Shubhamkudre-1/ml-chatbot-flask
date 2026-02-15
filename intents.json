@@ -1,0 +1,18 @@
+{
+  "intents": [
+    {
+      "tag": "ai",
+      "patterns": ["What is AI", "Explain AI", "Artificial intelligence meaning", "Define AI"],
+      "responses": ["AI is Artificial Intelligence which allows machines to think and learn."]
+    },
+    {
+      "tag": "python",
+      "patterns": ["What is Python", "Explain Python", "Python language use"],
+      "responses": ["Python is a programming language used in AI, web development and automation."]
+    },
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good morning"],
+        "responses": ["Hello!", "Hi there!", "Hey!"]}
+  ]
+}
